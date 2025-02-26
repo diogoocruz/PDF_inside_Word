@@ -1,0 +1,4 @@
+pdf2image
+python-docx
+docx2pdf
+pillow
